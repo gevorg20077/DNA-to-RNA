@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DNA-to-RNA/static/css/main.96c3a303.css",
+    "main.js": "/DNA-to-RNA/static/js/main.b66456e5.js",
+    "static/media/background.jpg": "/DNA-to-RNA/static/media/background.37f2b9bbd2ecf24686b1.jpg",
+    "index.html": "/DNA-to-RNA/index.html",
+    "main.96c3a303.css.map": "/DNA-to-RNA/static/css/main.96c3a303.css.map",
+    "main.b66456e5.js.map": "/DNA-to-RNA/static/js/main.b66456e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c3a303.css",
+    "static/js/main.b66456e5.js"
+  ]
+}
